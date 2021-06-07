@@ -1,3 +1,4 @@
 git勉強中
+本当はtutorial
 
-- feature-A
+- feature-D
